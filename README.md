@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mallahu</h1>
 <h3 align="center">A Passionate Web Developer from Morocco</h3>
 
-- 🌱 I’m currently learning **Node.js and Express**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **JavaScript, React, Node.js and Python**
 
